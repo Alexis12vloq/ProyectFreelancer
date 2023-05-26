@@ -1,0 +1,9 @@
+C:\UsersAlexis\ProjectFreeelancer\ProjectFreeelancer\obj\Release\net6.0\ProjectFreeelancer.csproj.AssemblyReference.cache
+C:\UsersAlexis\ProjectFreeelancer\ProjectFreeelancer\obj\Release\net6.0\spa.proxy.json
+C:\UsersAlexis\ProjectFreeelancer\ProjectFreeelancer\obj\Release\net6.0\ProjectFreeelancer.GeneratedMSBuildEditorConfig.editorconfig
+C:\UsersAlexis\ProjectFreeelancer\ProjectFreeelancer\obj\Release\net6.0\ProjectFreeelancer.AssemblyInfoInputs.cache
+C:\UsersAlexis\ProjectFreeelancer\ProjectFreeelancer\obj\Release\net6.0\ProjectFreeelancer.AssemblyInfo.cs
+C:\UsersAlexis\ProjectFreeelancer\ProjectFreeelancer\obj\Release\net6.0\ProjectFreeelancer.csproj.CoreCompileInputs.cache
+C:\UsersAlexis\ProjectFreeelancer\ProjectFreeelancer\obj\Release\net6.0\ProjectFreeelancer.MvcApplicationPartsAssemblyInfo.cache
+C:\UsersAlexis\ProjectFreeelancer\ProjectFreeelancer\obj\Release\net6.0\ProjectFreeelancer.RazorAssemblyInfo.cache
+C:\UsersAlexis\ProjectFreeelancer\ProjectFreeelancer\obj\Release\net6.0\ProjectFreeelancer.RazorAssemblyInfo.cs
